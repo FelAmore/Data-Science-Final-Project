@@ -10,7 +10,8 @@ To build an ideal tsunami prediction system, suitable datasets and machine lear
 + https://www.kaggle.com/datasets/raulchavez89/tsunami?select=Tsunami.csv
 
 ## Directory
-1. Code.ipynb : Contains all the code
+1. CSV folder : Contains the original dataset and the cleaned dataset
+2. Code.ipynb : Contains all the code
    - Datasets Info
    - EDA
    - Classification Report
@@ -22,4 +23,4 @@ To build an ideal tsunami prediction system, suitable datasets and machine lear
    - ROC AUC Graph
    - SHAP Values
    - Feature Importance
-2. Tsunami.csv : Contains the datasets for our testings
+1. Tsunami.csv : Contains the datasets for our testings
