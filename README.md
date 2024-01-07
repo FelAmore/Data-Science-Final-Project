@@ -11,7 +11,16 @@ To build an ideal tsunami prediction system, suitable datasets and machine lear
 
 ## Directory
 1. CSV folder : Contains the original dataset and the cleaned dataset
-2. Code.ipynb : Contains all the code
+2. Machine Learning Results : Contains all testing results for each machine learning
+   - Classification Report
+   - Best Hyperparameters
+   - Classification Report using Best Hyperparameters
+   - Confusion Matrix
+   - ROC AUC Value
+   - ROC AUC Graph
+   - SHAP Values
+   - Feature Importance
+3. Code.ipynb : Contains all the code
    - Datasets Info
    - EDA
    - Classification Report
@@ -23,4 +32,4 @@ To build an ideal tsunami prediction system, suitable datasets and machine lear
    - ROC AUC Graph
    - SHAP Values
    - Feature Importance
-1. Tsunami.csv : Contains the datasets for our testings
+4. Tsunami.csv : Contains the datasets for our testings
