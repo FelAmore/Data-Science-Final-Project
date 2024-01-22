@@ -24,4 +24,5 @@ To build an ideal tsunami prediction system, suitable datasets and machine lear
    - ROC AUC Graph
    - SHAP Values
    - Feature Importance
-4. Tsunami.csv : Contains the datasets for our testings
+4. Correlation Heatmap.jpeg : the pearson correlation heatmap for our dataset
+5. Tsunami.csv : Contains the datasets for our testings
